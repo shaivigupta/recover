@@ -1,1 +1,2 @@
 hello , welcome
+Configuring git on windows, understanding git clone, pull, private and public repositories
